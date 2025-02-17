@@ -1,0 +1,1 @@
+Run the command docker compose --profile cpu up
